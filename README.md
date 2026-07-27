@@ -1,9 +1,9 @@
 # FEM Learning Roadmap
 
-This repository is for learning the **Finite Element Method (FEM)** from the very beginning, then gradually building toward nonlinear FEM topics needed for a master thesis:
+This repository is for learning the **Finite Element Method (FEM)** from the very beginning, then gradually building toward nonlinear FEM topics needed for a master's thesis:
 
 - **Geometric nonlinearity** (large deformation)
-- **Force nonlinearity** (follower force)
+- **Load nonlinearity** (follower force)
 
 ## Goal
 
