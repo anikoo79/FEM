@@ -31,7 +31,7 @@ Build a strong and logical foundation in FEM, then solve increasingly complex no
 
 ### 4) Thesis-Oriented Problems
 - Start from small nonlinear benchmark examples
-- Increase complexity in geometry and loading step by step
+- Increase complexity in geometry and loading step-by-step
 - Compare numerical results with references/literature
 - Document assumptions, convergence behavior, and limitations
 
